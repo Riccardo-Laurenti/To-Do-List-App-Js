@@ -1,4 +1,4 @@
-// To-Do-List Wep App - Developer by Riccardo Laurenti Web Developer
+// To-Do-List Wep App - Developed by Riccardo Laurenti Web Developer
 
 const writeIn = document.getElementById("input-write");
 const buttonAdd = document.getElementById("add-task-button");
